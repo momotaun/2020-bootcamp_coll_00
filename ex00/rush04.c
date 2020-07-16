@@ -1,11 +1,9 @@
 void ft_putchar(char    c);
 void rush00(int     x, int      y)
 {
-	int     counter;
     int     num_columns1;
     int     num_columns2;
 
-    counter = 0;
     num_columns1 = x;
     num_columns2 = x;
     if(y > 0 && x > 0)
